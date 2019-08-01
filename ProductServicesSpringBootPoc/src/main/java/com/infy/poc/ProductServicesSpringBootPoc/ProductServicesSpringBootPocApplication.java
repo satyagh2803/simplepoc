@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
-@ComponentScan(basePackages ="com.infy.poc")
+//@ComponentScan(basePackages ="com.infy.poc")
 public class ProductServicesSpringBootPocApplication {
 
 	public static void main(String[] args) {
