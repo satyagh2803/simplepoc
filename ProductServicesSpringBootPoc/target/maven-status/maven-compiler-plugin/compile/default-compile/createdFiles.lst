@@ -1,0 +1,6 @@
+com\infy\poc\ProductServicesSpringBootPoc\model\Product.class
+com\infy\poc\ProductServicesSpringBootPoc\ProductServicesSpringBootPocApplication.class
+com\infy\poc\ProductServicesSpringBootPoc\model\ProductInventory.class
+com\infy\poc\ProductServicesSpringBootPoc\dao\ProductDAO.class
+com\infy\poc\ProductServicesSpringBootPoc\model\ProductInventoryDetail.class
+com\infy\poc\ProductServicesSpringBootPoc\controller\ProductServiceController.class
